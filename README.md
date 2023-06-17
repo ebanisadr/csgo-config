@@ -11,3 +11,7 @@ Major highlights:
 * Simple radar by aReDoNeHD ([Reddit source](https://old.reddit.com/r/GlobalOffensive/comments/pzyjfa/simple_radar_52_is_available_now_with_de_ancient/))
 * Zoom the radar in and out with <kbd>-</kbd>/<kbd>=</kbd> (think <kbd>-</kbd>/<kbd>+</kbd>)
 * Jumpthrow on <kbd>'</kbd>
+
+## Screenshots
+
+![An image of me playing Nuke](./images/nuke.jpg)
